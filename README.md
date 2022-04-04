@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning Software Development at Turing School
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me ermatlock@gmail.com
+![babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+
+
 
 
 
