@@ -4,6 +4,7 @@
 
 - I’m @ermatlock (he/him)
 - 👀 I’m interested in software, music, art, design, and film
+- 📫 How to reach me ermatlock@gmail.com
 ## About Me
 I have always been someone who walked the line between what are conventionally considered left brain and right brain. I would find a creative thing I loved, and then find myself just as fascinated and passionate about the systems and technologies applied to that creative endeavor.
 
@@ -12,8 +13,6 @@ In my storied history I have been a filmmaker, a professional touring keyboard p
 When I discovered coding as a real path I could take, my eyes were opened to a world where I can take all my creative skills and merge them with my technical skills. It is a joy to build something from the ground up using something as abstract as lines of characters. When it comes to software development, I am hooked.
 
 Aside from my professional work, I am an avid sci fi nerd,  and I play a talkbox. Let's chat science and music!
-
-- 📫 How to reach me ermatlock@gmail.com
 
 ## Technologies:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
