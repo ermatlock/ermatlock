@@ -4,7 +4,7 @@
 
 - I’m @ermatlock (he/him)
 - 👀 I’m interested in software, music, art, design, and film
-### About Me
+## About Me
 I have always been someone who walked the line between what are conventionally considered left brain and right brain. I would find a creative thing I loved, and then find myself just as fascinated and passionate about the systems and technologies applied to that creative endeavor.
 
 In my storied history I have been a filmmaker, a professional touring keyboard player in a funk/soul band, an audio engineer and producer, a video editor, a motion graphics designer, an AV technician, and cameraman. Though I loved working in all these fields, I often found myself wishing I could get deeper, to build the software that runs the camera, to engineer the programs that help us create art, to open up the 1950's Hammond organ and rebuild it to make it function like new.
