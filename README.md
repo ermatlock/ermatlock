@@ -4,8 +4,15 @@
 
 - I’m @ermatlock (he/him)
 - 👀 I’m interested in software, music, art, design, and film
-- 🌱 I’m currently learning Software Development at Turing School
-- 💞️ I’m looking to collaborate on coding projects
+### About Me
+I have always been someone who walked the line between what are conventionally considered left brain and right brain. I would find a creative thing I loved, and then find myself just as fascinated and passionate about the systems and technologies applied to that creative endeavor.
+
+In my storied history I have been a filmmaker, a professional touring keyboard player in a funk/soul band, an audio engineer and producer, a video editor, a motion graphics designer, an AV technician, and cameraman. Though I loved working in all these fields, I often found myself wishing I could get deeper, to build the software that runs the camera, to engineer the programs that help us create art, to open up the 1950's Hammond organ and rebuild it to make it function like new.
+
+When I discovered coding as a real path I could take, my eyes were opened to a world where I can take all my creative skills and merge them with my technical skills. It is a joy to build something from the ground up using something as abstract as lines of characters. When it comes to software development, I am hooked.
+
+Aside from my professional work, I am an avid sci fi nerd,  and I play a talkbox. Let's chat science and music!
+
 - 📫 How to reach me ermatlock@gmail.com
 
 ## Technologies:
