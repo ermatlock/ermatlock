@@ -33,7 +33,7 @@ Aside from my professional work, I am an avid sci fi nerd,  and I play a talkbox
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-[![Eric Matlock's GitHub stats](https://github-readme-stats.vercel.app/api?username=ermatlock)](https://github.com/ermatlock/github-readme-stats)
+[![Eric Matlock's GitHub stats](https://github-readme-stats.vercel.app/api?username=ermatlock&show_icons=true&theme=radical)](https://github.com/ermatlock/github-readme-stats)
 
 
 
