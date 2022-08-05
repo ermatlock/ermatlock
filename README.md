@@ -3,6 +3,7 @@
 <h1><img src="https://user-images.githubusercontent.com/35410545/159790574-40fbacee-ec50-43d2-8a47-543c97857971.gif" width="30px"> Hey There! </h1>
 
 - I’m @ermatlock (he/him)
+- I'm a certified Front-End Engineer from the Turing School of Software & Design
 - 👀 I’m interested in software, music, art, design, and film
 - 📫 How to reach me ermatlock@gmail.com
 ## About Me
