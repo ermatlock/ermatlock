@@ -7,11 +7,9 @@
 - 👀 I’m interested in software, music, art, design, and film
 - 📫 How to reach me ermatlock@gmail.com
 ## About Me
-I am a professional musician, graphic designer, and video editor-turned front-end developer. My mission is to create highly intuitive products with a keen eye for detail, functionality, and a cohesive user experience.
+I am a front-end developer. My mission is to create highly intuitive products with a keen eye for detail, functionality, and a cohesive user experience.
 
-I have always been someone who walked the line between the left brain and the right brain. I would find a creative thing I loved, and then find myself just as fascinated and passionate about the systems and technologies applied to that creative endeavor.
-
-In my storied history, I have been a filmmaker, a professional touring keyboard player in a funk/soul band, an audio engineer and producer, a video editor, a motion graphics designer, an AV technician, and a videographer.
+In my storied history, I have been a filmmaker, a professional touring keyboard player in a funk/soul band, an audio engineer and producer, a video editor, a motion graphics designer, an AV technician, a videographer, and an instructor.
 
 Though I loved working in all these fields, I often found myself wishing I could go deeper, build the software that interfaces with the camera, engineer the programs that help us create art, open up the 1950's Hammond organ and rebuild it to make it function like new.
 
