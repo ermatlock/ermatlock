@@ -1,4 +1,4 @@
-![Eric Matlock](https://user-images.githubusercontent.com/35410545/159789876-dd630bd2-d175-48a6-b809-506e04a300b3.png)
+![Eric Matlock](https://user-images.githubusercontent.com/35410545/190690643-0d998a6b-db86-4890-ad83-389964da331c.png)
 
 <h1><img src="https://user-images.githubusercontent.com/35410545/159790574-40fbacee-ec50-43d2-8a47-543c97857971.gif" width="30px"> Hey There! </h1>
 
