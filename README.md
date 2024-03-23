@@ -52,8 +52,6 @@ Aside from my professional work, I am an avid science and sci-fi nerd and I play
 ![Figma](https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-[![Eric Matlock's GitHub stats](https://github-readme-stats.vercel.app/api?username=ermatlock&show_icons=true&theme=synthwave)](https://github.com/ermatlock/github-readme-stats)
-
 
 
 <!---
