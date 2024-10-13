@@ -8,15 +8,15 @@
 - 👀 I’m interested in software, music, art, design, and film
 - 📫 How to reach me ermatlock@gmail.com
 ## About Me
-I am a Software Engineer. My mission is to create highly intuitive products with a keen eye for detail, functionality, and a cohesive user experience.
+I am a passionate software engineer with a diverse background that spans various creative and technical disciplines. Currently, I am engaged with AMPAworks, where I've played a pivotal role in developing and launching new features for both mobile and desktop platforms, including sophisticated admin dashboards and alert management systems that enhance user experience and operational efficiency. My work includes redesigning user flows and application UI, managing GraphQL schemas and database architecture, and introducing dynamic graph and chart views for data-driven decision-making.
 
-In my storied history, I have been a filmmaker, a professional touring keyboard player in a funk/soul band, an audio engineer and producer, a video editor, a motion graphics designer, an AV technician, a videographer, and an instructor.
+Before this role, I worked as a Frontend Engineer at Code The Dream, where I made significant contributions such as quadrupling site performance by transitioning from Airtable to MongoDB. My user-centered design approach led to enhanced navigability and user engagement through intuitive layouts and interactive elements.
 
-Though I loved working in all these fields, I often found myself wishing I could go deeper, build the software that interfaces with the camera, engineer the programs that help us create art, open up the 1950's Hammond organ and rebuild it to make it function like new.
+My earlier career included roles as a trial consultant and video producer, where I developed compelling trial presentations and spearheaded a video production arm that significantly boosted company revenue and client advocacy. This diverse experience has instilled a unique blend of creativity and technical proficiency that I bring to software development.
 
-When I discovered coding as a real path I could take, my eyes were opened to a world where I can take all my creative skills and merge them with my technical skills. It is a joy to build something from the ground up using something as abstract as lines of characters. When it comes to software development, I am hooked.
+As a developer, I’m driven by the challenge of building intuitive products that merge my technical skills with my creative background—ranging from filmmaking to audio engineering. With extensive knowledge in languages and frameworks like JavaScript, React, Next.js, and TypeScript, and tools like GitHub and Figma, I am continually evolving and eager to innovate.
 
-Aside from my professional work, I am an avid science and sci-fi nerd and I play a talkbox. Let's chat science and music!
+Outside of my professional work, I am a dedicated science and sci-fi enthusiast and an avid musician, playing instruments like the talkbox. Let’s connect and explore the fascinating intersection of technology, science, and music!
 
 ## Technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
