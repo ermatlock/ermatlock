@@ -1,5 +1,4 @@
-![Eric Matlock](https://github.com/user-attachments/assets/53cfdfc5-d3d8-476d-bc39-ca598ea65a7a)
-
+![Eric Matlock](https://user-images.githubusercontent.com/35410545/190690643-0d998a6b-db86-4890-ad83-389964da331c.png)
 
 <h1><img src="https://user-images.githubusercontent.com/35410545/159790574-40fbacee-ec50-43d2-8a47-543c97857971.gif" width="30px"> Hey There! </h1>
 
@@ -28,10 +27,8 @@ Outside of my professional work, I am a dedicated science and sci-fi enthusiast 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shiel![2](https://github.com/user-attachments/assets/fd513bf3-1218-42a7-8be1-47e3b71ba406)
-ds.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shield![2](https://github.com/user-attachments/assets/60562b3a-d800-4a65-bb84-34f1e79e18b4)
-s.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
