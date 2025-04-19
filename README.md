@@ -2,7 +2,7 @@
 
 <h1><img src="https://user-images.githubusercontent.com/35410545/159790574-40fbacee-ec50-43d2-8a47-543c97857971.gif" width="30px"> Hey There! </h1>
 
-- 📫 How to reach me ermatlock@gmail.com
+- 📫 How to reach me ematlockdev@gmail.com
 
 ## About Me
 I'm a Full-Stack Software Engineer specializing in React, React Native, TypeScript, and GraphQL.  My path began in filmmaking, music performance, and graphic design. After experiencing hearing loss, I discovered software development as a new creative outlet, allowing me to blend artistic expression with technical innovation.
